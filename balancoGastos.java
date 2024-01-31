@@ -30,6 +30,7 @@ public class balancoGastos {
 }
 
 /* Porque não declarei variaveis do tipo "int"?
- * Para poder atribuir valores maiores no input de entrada de dados, prefiri utilizar dados do tipo float para considerar valores que não são exatos.
+ * Para poder atribuir valores maiores no input de entrada de dados, prefiri utilizar dados do tipo float para considerar valores que não são exatos, mesmo considerando
+ * que o algoritmo sejá simples.
  * Revisão do algoritmo: 30/01/2024.
  */
